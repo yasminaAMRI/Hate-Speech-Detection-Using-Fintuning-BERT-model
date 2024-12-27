@@ -1,0 +1,1 @@
+In this project, we fine-tune a pretrained BERT model on a dataset of tweets and add a classification model to classify tweets as either hate speech or not hate speech. After executing all the commands, a new pretrained model and its tokenizer will be saved. You can load and use them on your own database.
